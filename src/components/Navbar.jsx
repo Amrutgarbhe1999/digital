@@ -26,7 +26,7 @@ function Navbar() {
             <li><Link to='/digital-marketing' class="dropdown-item" >Digital Marketing</Link></li>
             <li><Link class="dropdown-item" >Graphics Desiging</Link></li>
             <li><hr class="dropdown-divider"/></li>
-            <li><a class="dropdown-item" >Something else here</a></li>
+            {/* <li><a class="dropdown-item" >Something else here<÷/a></li> */}
           </ul>
         </li>
       </ul>
